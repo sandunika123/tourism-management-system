@@ -136,7 +136,7 @@ i.fa.fa-lock {
 
 /*-- banner --*/
 .banner {
-    background: url(../images/c3.jpg)no-repeat;
+    background: url(../images/3.jpg)no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -424,7 +424,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
     color:#4CFF00;
 }
 .footer-btm {
-    background:#4CB320;
+    background:#2f302f;
     padding: 0.5em 0;
 	text-align:center;
 }
@@ -440,7 +440,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
     color:#000000;
 }
 .copy-right {
-    background:#34ad00;
+    background:#272727;
     text-align: center;
     padding: 0.5em 0;
 }

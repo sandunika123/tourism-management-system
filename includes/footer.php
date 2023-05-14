@@ -4,11 +4,12 @@
 
 <!--- /footer-top ---->
 <!---copy-right ---->
-<div class="copy-right">
+<div class="copy-right" style="background-color: rgb(46, 45, 45);">
 	<div class="container">
 	
 		<div class="footer-social-icons wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
 			<ul>
+				<br>
 				<li><a class="facebook" href="#"><span>Facebook</span></a></li>
 			
 				<li><a class="flickr" href="#"><span>Flickr</span></a></li>
